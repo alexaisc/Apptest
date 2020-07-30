@@ -1,0 +1,14 @@
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\AppTest.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\AppTest.pdb
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.CopyComplete
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\obj\Debug\AppTest.dll
+C:\Users\Alexa Lopez\source\repos\AppTest\AppTest\obj\Debug\AppTest.pdb
